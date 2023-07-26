@@ -5,3 +5,6 @@
 3. Go to Info and go to configration create duplicate of Release to Release-dev
 4. Now Manage Schema and change Debug to all to Debug-dev
 4. Now Manage Schema and change Release to all to Release-dev
+
+Download Main Source Code - https://github.com/dwirandyh/medium-flutter-build-flavor
+Visit Medium - https://dwirandyh.medium.com/create-build-flavor-in-flutter-application-ios-android-fb35a81a9fac
