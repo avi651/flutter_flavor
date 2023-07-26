@@ -1,0 +1,7 @@
+// Step To Create flavors for iOS
+
+1. Go to Runner App and select Project and then select Runner
+2. Go to Info and go to configration create duplicate of Debug to Debug-dev
+3. Go to Info and go to configration create duplicate of Release to Release-dev
+4. Now Manage Schema and change Debug to all to Debug-dev
+4. Now Manage Schema and change Release to all to Release-dev
